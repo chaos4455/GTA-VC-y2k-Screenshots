@@ -14,11 +14,6 @@ Este repositório tem como objetivo preservar e compartilhar um conjunto exclusi
 ### 📜 História e Contexto
 Minha jornada com o GTA Vice City começou na minha infância e adolescência, onde me apaixonei por esse clássico do universo dos games. Como um entusiasta da cultura hacker e geek, sempre tive um fascínio por arquivismo e pela preservação da história digital. Este repositório não é apenas um arquivo de imagens, mas um reflexo da minha trajetória e paixão pelo mundo dos games e pela cultura geek. 
 
----
-
-## 🛡️ Badges e Shields
-
-![GitHub Release](https://img.shields.io/github/release/chaos4455/GTA-Vice-City-Archive?style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/chaos4455/GTA-Vice-City-Archive?style=flat-square) ![GitHub Forks](https://img.shields.io/github/forks/chaos4455/GTA-Vice-City-Archive?style=flat-square) ![License](https://img.shields.io/github/license/chaos4455/GTA-Vice-City-Archive?style=flat-square)
 
 ---
 
