@@ -23,6 +23,33 @@ Minha jornada com o GTA Vice City começou na minha infância e adolescência, o
 - **/pre-release:** Imagens e prints coletados antes do lançamento oficial do jogo.
 - **/post-release:** Imagens e prints do jogo após o lançamento, mostrando atualizações e mudanças.
 
+## 🎨 Cultura Geek e Arquivismo
+
+### 🎮 Minha Infância e Adolescência Geek
+Desde jovem, a cultura geek sempre foi uma parte fundamental da minha vida. Cresci explorando os mundos virtuais dos videogames, e GTA Vice City foi um marco dessa época. Arquivar imagens e capturar a essência desses momentos é uma forma de manter viva a nostalgia e compartilhar a paixão com a comunidade geek.
+
+### 🔍 A Cultura Hacker
+A cultura hacker sempre me fascinou pela sua criatividade e pela habilidade de explorar e entender sistemas de maneiras inovadoras. O arquivismo e a preservação de imagens raras são formas de seguir essa filosofia, mantendo vivas as memórias e a história dos jogos que moldaram nossa experiência digital.
+
+## 🚀 Contribua
+
+Se você possui imagens raras ou informações adicionais sobre o GTA Vice City, sinta-se à vontade para contribuir para este repositório! 🎉 Entre em contato ou faça um pull request para adicionar mais ao nosso arquivo.
+
+---
+
+## 🔗 Links Relevantes
+
+- **Meu Portfólio GitHub:** [chaos4455](https://github.com/chaos4455?tab=repositories) 🌐
+- **Replika AI Solutions:** [replika-ai-solutions](https://github.com/replika-ai-solutions) 🌟
+
+---
+
+**Obrigado por explorar este repositório!** 🙌
+
+Siga-me para mais atualizações e compartilhe sua paixão pela cultura geek e pelo arquivismo com a gente! 🌟🎮
+
+
+
 ### 🖼️ Exemplo de Imagems
 ![screen03](https://github.com/user-attachments/assets/a064b23a-732e-4aab-8163-a9bc421ccf89)
 ![screen04](https://github.com/user-attachments/assets/f6c329a7-255e-4b44-b084-1245ec6b99d1)
@@ -73,29 +100,3 @@ Minha jornada com o GTA Vice City começou na minha infância e adolescência, o
 
 
 ![full_vc_10](https://github.com/user-attachments/assets/c167aaf0-3ab9-4c99-8289-d6a20e702fb7)
-
-## 🎨 Cultura Geek e Arquivismo
-
-### 🎮 Minha Infância e Adolescência Geek
-Desde jovem, a cultura geek sempre foi uma parte fundamental da minha vida. Cresci explorando os mundos virtuais dos videogames, e GTA Vice City foi um marco dessa época. Arquivar imagens e capturar a essência desses momentos é uma forma de manter viva a nostalgia e compartilhar a paixão com a comunidade geek.
-
-### 🔍 A Cultura Hacker
-A cultura hacker sempre me fascinou pela sua criatividade e pela habilidade de explorar e entender sistemas de maneiras inovadoras. O arquivismo e a preservação de imagens raras são formas de seguir essa filosofia, mantendo vivas as memórias e a história dos jogos que moldaram nossa experiência digital.
-
-## 🚀 Contribua
-
-Se você possui imagens raras ou informações adicionais sobre o GTA Vice City, sinta-se à vontade para contribuir para este repositório! 🎉 Entre em contato ou faça um pull request para adicionar mais ao nosso arquivo.
-
----
-
-## 🔗 Links Relevantes
-
-- **Meu Portfólio GitHub:** [chaos4455](https://github.com/chaos4455?tab=repositories) 🌐
-- **Replika AI Solutions:** [replika-ai-solutions](https://github.com/replika-ai-solutions) 🌟
-
----
-
-**Obrigado por explorar este repositório!** 🙌
-
-Siga-me para mais atualizações e compartilhe sua paixão pela cultura geek e pelo arquivismo com a gente! 🌟🎮
-
