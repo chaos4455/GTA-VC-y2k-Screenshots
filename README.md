@@ -50,7 +50,7 @@ Minha jornada com o GTA Vice City começou na minha infância e adolescência, o
 ![full_vc_06](https://github.com/user-attachments/assets/8a105d30-8c96-4904-a72b-b62afbd83847)
 ![full_vc_07](https://github.com/user-attachments/assets/c7f7f462-0417-40af-a844-feb0006c87d0)
 ![full_vc_08](https://github.com/user-attachments/assets/cae1b00e-92c9-483e-8a63-6ad04ca1e183)
-![full_vc_09](https://github.com/user-attachments/assets/04392ac0-d3b8-4d1d-b
+![full_vc_09](https://github.com/user-attachments/assets/04392ac0-d3b8-4d1d-b713-c8458e0ffa97)
 ![screen01 (1)](https://github.com/user-attachments/assets/e3f15e7e-6dfb-4fe7-b2e0-822b54aa2edf)
 ![screen02 (1)](https://github.com/user-attachments/assets/cf89d911-3eab-4d93-bb7b-558ab19b5639)
 ![screen03 (1)](https://github.com/user-attachments/assets/fc9c9c79-111e-4173-b6db-9f34b266be70)
@@ -75,7 +75,7 @@ Minha jornada com o GTA Vice City começou na minha infância e adolescência, o
 ![screenD06](https://github.com/user-attachments/assets/d0d51e2d-8ec7-4333-b107-f547ff5ec99d)
 ![screen01](https://github.com/user-attachments/assets/24861641-1e4a-4424-80c8-680007407ab6)
 ![screen02](https://github.com/user-attachments/assets/c0c3af08-fc3e-4ad2-b8df-ed69d488f316)
-713-c8458e0ffa97)
+
 
 ![full_vc_10](https://github.com/user-attachments/assets/c167aaf0-3ab9-4c99-8289-d6a20e702fb7)
 
